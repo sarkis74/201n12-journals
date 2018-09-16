@@ -1,1 +1,2 @@
 # 201n12-journals
+Today I learned how do use nested loops for repetitve tasks by requesting values from users and comparing those values to the ones stored in an array. I leanred how storing blocks of codes for complex tasks in functions can save time from rewriting these blocks. I also learned about css properties such as float and position that help keep images isolated from text with float or superimpose text with position. I found I have difficulty tracking loop stages which makes it difficult to fix any errors. 
