@@ -1,0 +1,2 @@
+# 201n12-journals
+Today I learned about using images, color and text in CSS. I learned that when displaying these in websites we have to be attentive to detais that might affect visitors. I also learned about array methods such as push, pop, splice and how we can use them in creative and effective ways to change arrays. At the end of the class I learned the git command checkout and how it can be used to switch branches. I found I still have somewhat difficulty understanding the components and mechanism of git and github. 
