@@ -1,0 +1,1 @@
+Today I learned about objects. I learned how to build them using either literal or constructor notation. I learned about properties and methods and how they are containers for values and actions respectively. 
