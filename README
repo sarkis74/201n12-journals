@@ -1,0 +1,1 @@
+I converted literal objects to constructor functions for my project. I found they make the code much easier to interpret. Object prototypes are helpful when we need to modify functions. I had difficulty putting together the table. 
