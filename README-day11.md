@@ -1,1 +1,1 @@
-
+Today I learned more about assigning random numbers to array indices to render random images from an images array and used conditional statements to make sure there were no biases. I learned how to change the html elements that point to images and titles of images on the page. I also learned about charts and how to push objects into the drawChart function. I have difficulty grasping the idea of using objects as parameters of a function. 
