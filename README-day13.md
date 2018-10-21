@@ -1,0 +1,1 @@
+Today I learned about CSS animations and how they break down in different points. For example, with keyframes the there are breakpoints that are indicated by percentages where we can change the positions of where the animation applies and also the style of animation. WE also went over the final lab assignments which involve localStorage. 
