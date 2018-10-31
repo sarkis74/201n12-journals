@@ -1,0 +1,1 @@
+Today I learned about Google API for maps. This is part of our projects. As an API, it has a structure similar to canvas.js. I also learned about document.location.href and how it can be useful when you have multiple html files linked to the same function. 
